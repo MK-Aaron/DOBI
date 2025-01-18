@@ -36,3 +36,5 @@ DOBI is not just a platform for storing notes; it's also a social space. I am lo
 
 #### Team member
 :x: Aaron Kyuma mwendwaaaron254@gmail.com
+
+###### ©ALX_PROGRAM
